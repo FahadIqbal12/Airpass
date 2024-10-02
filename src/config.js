@@ -7,12 +7,12 @@ import { getAuth } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDpAKpE1dxqAzzzQHj3FvVflrzGas9VhiQ",
-  authDomain: "travelpal-805be.firebaseapp.com",
-  projectId: "travelpal-805be",
-  storageBucket: "travelpal-805be.appspot.com",
-  messagingSenderId: "781171865304",
-  appId: "1:781171865304:web:5a88510d98d6da4d4589ad",
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
   
 };
 
